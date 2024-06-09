@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fake Money Detection</string>
+    <string name="image_desc">Selected Image</string>
+</resources>
